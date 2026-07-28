@@ -1,0 +1,9 @@
+apache-airflow-providers-standard
+apache-airflow-providers-common-sql
+apache-airflow-providers-snowflake
+apache-airflow-providers-amazon
+
+pendulum
+requests
+pandas
+snowflake-connector-python>=3.10.0
